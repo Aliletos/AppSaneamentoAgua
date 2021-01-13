@@ -21,6 +21,5 @@
     "dialect": "mysql"
   },
   "urlRoot": "https://water-hub.herokuapp.com/",
-  "origin": "Rua Nelson Correia Leite - Sorocaba-SP",
-  "geocodingAPI": "AIzaSyD0vIMBykvLa6EhhpvKnYNZ6XPTAGR62Lk"
+  "origin": "Rua Nelson Correia Leite - Sorocaba-SP"
 }
