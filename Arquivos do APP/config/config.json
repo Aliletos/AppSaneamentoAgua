@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "saneamento",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "b63023e2e3cf20",
+    "password": "fc5972ba",
+    "database": "heroku_22ede73ded35c36",
+    "host": "us-cdbr-east-02.cleardb.com",
+    "dialect": "mysql"
+  },
+  "urlRoot": "https://water-hub.herokuapp.com/",
+  "origin": "Rua Nelson Correia Leite - Sorocaba-SP",
+  "geocodingAPI": "AIzaSyD0vIMBykvLa6EhhpvKnYNZ6XPTAGR62Lk"
+}
